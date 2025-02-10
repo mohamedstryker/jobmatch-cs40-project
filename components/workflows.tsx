@@ -21,7 +21,7 @@ export default function Workflows() {
             </h2>
             <p className="text-lg text-indigo-200/65">
               A simple and efficient way to connect with top employers and land your dream job. 
-              Our platform seamlessly integrates career planning tools to help you stay on track and achieve your professional goals..
+              Our platform seamlessly integrates career planning tools to help you stay on track and achieve your professional goals.
             </p>
           </div>
           {/* Spotlight items */}
