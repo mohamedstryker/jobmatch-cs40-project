@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Home - JobMatch",
+  title: "JobMatch",
   description: "JobMatch is designed to bridge the gap between job seekers and companies, making the hiring process seamless and efficient.",
 };
 
