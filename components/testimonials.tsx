@@ -42,6 +42,7 @@ const testimonials = [
     categories: [1, 2, 4],
   },
   {
+    img: TestimonialImg03,
     clientImg: ClientImg03,
     name: "Lucy D.",
     company: "UX Designer",
@@ -118,8 +119,8 @@ export default function Testimonials() {
             Don't take our word for it
           </h2>
           <p className="text-lg text-indigo-200/65">
-            We provide tech-first solutions that empower decision-makers to
-            build healthier and happier workspaces from anywhere in the world.
+            We leverage cutting-edge technology to connect job seekers with top employers, 
+            empowering professionals to build fulfilling careers and companies to hire the best talent—anytime, anywhere.
           </p>
         </div>
 
