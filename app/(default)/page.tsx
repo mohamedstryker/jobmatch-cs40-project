@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Home - JobMatch",
+  description: "JobMatch is designed to bridge the gap between job seekers and companies, making the hiring process seamless and efficient.",
 };
 
 import PageIllustration from "@/components/page-illustration";
